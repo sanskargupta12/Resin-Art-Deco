@@ -1,0 +1,96 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    height: 27vh; 
+}
+.footer-logo{
+    display: flex;
+    align-items:center;
+    height: 27vh;
+
+
+}
+.log{
+    height: 130px;
+    
+}
+
+.footer-links{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    color: rgb(80, 66, 66);
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.footer-links li{
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+
+}
+.footer-socials-icon{
+    display: flex;
+    gap: 20px;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.footer-icons-container{
+    padding: 10px;
+    padding-bottom: 2px;
+    background: whitesmoke;
+    border: 1px solid rgb(209, 196, 196);
+    justify-content: center;
+    align-items: center;
+
+}
+.footer-socials-icon img{
+    height: 30px;
+}
+.footer-copyright{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    color: #1a1a1a;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: rgb(190, 197, 199);
+
+}
+.footer-copyright hr{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    height: 2px;
+    background-color: #8c8484;
+}
+.mapouter{
+    position: relative;
+    text-align: right;
+    float:right;
+    border-radius: 40px;
+    margin: 30px;
+    justify-content: right;
+    border: 1px solid rgb(227, 227, 227);
+    transition: all .6s ease;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 5px 0px,
+      rgba(0, 0, 0, 0.5) 0px 2px 15px 0px;
+
+}
+
+.gmap_canvas{
+    border-radius: 40px;
+    overflow: hidden;
+    background: none !important;
+   justify-content: right;
+
+}

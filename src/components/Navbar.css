@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    color: #9c8f8f;
+    font-size: 20px;
+    gap: 3px;
+    cursor: pointer;
+}
