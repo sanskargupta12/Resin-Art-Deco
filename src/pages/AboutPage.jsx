@@ -18,14 +18,7 @@ const AboutPage = () => {
              <img alt="1" src="https://i.ibb.co/Rj19mwt/Screenshot-2024-03-24-170811-removebg-preview.png"/>
              
           </div>
-          <div classNameName='container1'>
-
-          <div className='about_img1'>
-
-             <p>Yeshtham Shah, a Backend developer, serves as a cornerstone in the design and development of the "Resin Art and Deco" website. His expertise revolves around crafting resilient systems that empower online platforms, ensuring seamless transactions and enriching user experiences. Beyond his coding prowess, Yeshtham cultivates an environment of encouragement, igniting inspiration among team members and collaborators to push boundaries and achieve excellence in every facet of website design and functionality. With his unwavering commitment and technical finesse, Yeshtham not only constructs digital landscapes but also fosters a culture of innovation and progress within the "Resin Art and Deco" domain.</p>
-         </div>
-
-         </div>
+       
          </div>
         </div> 
         <div className="p_slider1"> 
