@@ -12,15 +12,7 @@ const AboutPage = () => {
           fontSize:'50px'
         }
       }>About Us</h1>
-        <div className="p_slider1"> 
-          <div className="product-box1"><h3>Backend Developer</h3>
-          <div className="product-box-img">
-             <img alt="1" src="https://i.ibb.co/Rj19mwt/Screenshot-2024-03-24-170811-removebg-preview.png"/>
-             
-          </div>
-       
-         </div>
-        </div> 
+      
         <div className="p_slider1"> 
           <div className="product-box1"><h3>Frontend Developer</h3>
           <div className="product-box-img1">
